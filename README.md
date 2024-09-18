@@ -11,3 +11,9 @@ formado em redes de computadores, pela Cruzeiro do Sul.
 
 
 
+  <div>
+    <a href="https://github.com/Iurigivago">
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iurigivago&langs_count=&theme=dracula/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Iurigivago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        
+  </div>
