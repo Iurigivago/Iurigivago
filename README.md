@@ -1,16 +1,13 @@
-## Hi there 👋
+## Ola, me chamo Iuri Givago!
+## Bem vindo ao meu perfil GitHub👋
 
-<!--
-**Iurigivago/Iurigivago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando prestanto suporte no sistema ERP PROTHEUS, em uma empressa no ramo de avicultura, na qual estou a mas de 9 anos,
+formado em redes de computadores, pela Cruzeiro do Sul.
+- 🌱 Atualmente estou estudado programação na Alura almejando entra para o mundo de DEV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como entra em contato comigo :
+- E-mail: iurigivago7@gmail.com
+
+
+
